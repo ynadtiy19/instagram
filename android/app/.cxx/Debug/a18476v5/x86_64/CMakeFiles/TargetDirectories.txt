@@ -1,0 +1,2 @@
+C:/Users/Mohamed Elansary/Desktop/instgramapp/instgram_app/android/app/.cxx/Debug/a18476v5/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Mohamed Elansary/Desktop/instgramapp/instgram_app/android/app/.cxx/Debug/a18476v5/x86_64/CMakeFiles/rebuild_cache.dir
